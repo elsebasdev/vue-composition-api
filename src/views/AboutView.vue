@@ -1,5 +1,21 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <h1>About</h1>
 </template>
+
+<script>
+export default {
+
+  setup(){
+
+    console.log('El Setup se llamo');
+
+  }
+}
+
+
+
+</script>
+
+<style>
+
+</style>
